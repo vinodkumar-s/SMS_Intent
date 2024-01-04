@@ -3,7 +3,7 @@
 Develop program to create and design an android application to Send SMS using Intent in Android Studio.
 
 ## AIM:
-To create and design an android application Send SMS using Intent in Android Studio.
+To create and design an android application to Send SMS using Intent in Android Studio.
 
 ## EQUIPMENTS REQUIRED:
 
