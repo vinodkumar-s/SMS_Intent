@@ -28,11 +28,11 @@ Step 7: Save and run the application.
 
 ## Program:
  ```
-/*
+
 Program to create and design an android application for Sending  SMS using Intent.
 Developed by: VINOD KUMAR S
-RegisterNumber:  212222240116
-*/
+RegisterNumber: 212222240116
+
 ```
 
 ## MainActivity.java:
